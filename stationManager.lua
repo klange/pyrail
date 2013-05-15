@@ -94,7 +94,7 @@ local function trainApproach ()
 end
 
 local function nextTrainIs()
-	local resp  = pyrail.nexttrain("Foo", "bar", "baz", "bing")
+	local resp  = pyrail.nexttrain(config.name, config.line, config.linedir, config.track)
 	if resp then
 		local train = resp['name']
 		local dest  = resp['dest']
@@ -123,7 +123,7 @@ end
 
 -- "This is the..."
 local function scheduleDeparture()
-	local resp  = pyrail.schedule("Foo", "bar", "baz", "bing")
+	local resp  = pyrail.schedule(config.name, config.line, config.linedir, config.track)
 	if resp then
 		local name = resp['name']
 		local dest = resp['dest']
@@ -140,7 +140,7 @@ local function scheduleDeparture()
 		dispDo("setCursorPos", 1, 4)
 		dispDo("write", "  "..dest)
 		dispDo("setCursorPos", 1, 5)
-		dispDo("write", "Leaving at: "..time)
+		dispDo("write", "Leaving: "..time)
 		return resp['leave']
 	else
 		dispDo("setCursorPos", 1, 1)
