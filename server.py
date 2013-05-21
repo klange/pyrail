@@ -21,7 +21,7 @@ def schedule(request):
 	resp = {}
 	data = json.loads(request.body)
 	resp['status'] = 'ok'
-	resp['name']   = "Some Train"
+	resp['name']   = "Red Line"
 	resp['time']   = time.strftime("%H:%M:%S", time.localtime(time.time()+20))
 	resp['dest']   = getdest(data['direction'])
 	resp['leave']  = 20
@@ -31,7 +31,7 @@ def nexttrain(request):
 	resp = {}
 	data = json.loads(request.body)
 	resp['status'] = 'ok'
-	resp['name']   = "Some Train"
+	resp['name']   = "Red Line"
 	resp['time']   = time.strftime("%H:%M", time.localtime(time.time()+3*60))
 	resp['dest']   = getdest(data['direction'])
 	return Response(json.dumps(resp))
