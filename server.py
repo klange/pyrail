@@ -5,11 +5,24 @@ from pyramid.response import Response
 import json
 import time
 
-def getdest(direction):
+stations = ["Quantsini Farmstead", "Sandy Shores", "Main Base", "Research Center"]
+
+def getdest(station, direction):
+	if not station in stations:
+		return "???"
+
+	current = stations.index(station)
+
 	if direction.lower() == "inbound":
-		return "Main Base"
+		if current == len(stations)-1:
+			return "(Loop back)"
+		else:
+			return stations[current+1]
 	else:
-		return "Quantsini Farmstead"
+		if current == 0:
+			return "(Loop back)"
+		else:
+			return stations[current-1]
 
 def checkpoint(request):
 	resp = {}
@@ -23,7 +36,7 @@ def schedule(request):
 	resp['status'] = 'ok'
 	resp['name']   = "Red Line"
 	resp['time']   = time.strftime("%H:%M:%S", time.localtime(time.time()+20))
-	resp['dest']   = getdest(data['direction'])
+	resp['dest']   = getdest(data['stop_name'], data['direction'])
 	resp['leave']  = 20
 	return Response(json.dumps(resp))
 
@@ -32,8 +45,8 @@ def nexttrain(request):
 	data = json.loads(request.body)
 	resp['status'] = 'ok'
 	resp['name']   = "Red Line"
-	resp['time']   = time.strftime("%H:%M", time.localtime(time.time()+3*60))
-	resp['dest']   = getdest(data['direction'])
+	resp['time']   = time.strftime("%H:%M", time.localtime(time.time()+5*60))
+	resp['dest']   = getdest(data['stop_name'], data['direction'])
 	return Response(json.dumps(resp))
 
 def api_time(request):
