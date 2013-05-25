@@ -35,15 +35,15 @@ class Line(object):
 				train = i
 		if not train and self.trains_seen < self.train_count:
 			train = Train(self.next_train_number(), self, station, dest)
-			print "   This is a new train. I am assigning local train number %d." % (train.number)
+			print "   Newly identified train."
 			self.trains.append(train)
 		elif not train and self.trains_seen >= self.train_count:
 			print "Failed to identify train!"
 			return None
 		else:
-			print "   This is train %d." % (train.number)
 			train.at   = station
 			train.dest = dest
+		print "   This is train #%d. It should arrive at its destination at %s." % (train.number, time.strftime("%H:%M:%S", time.localtime(time.time() + self.time_between(station, dest))))
 		return train
 
 
@@ -69,6 +69,12 @@ class Line(object):
 			else:
 				return self.stations[current+1]
 
+	def time_between(self, start, dest):
+		if not (start, dest) in self.times:
+			return 1000.0
+		else:
+			return self.times[(start,dest)] + 20
+
 	def round_trip_time(self):
 		if not self.rtt:
 			total = 0.0
@@ -81,20 +87,22 @@ class Line(object):
 
 lines = {}
 
-_qf = "Quantsini Farmstead"
-_ss = "Sandy Shores"
-_mb = "Main Base"
-_rc = "Research Center"
+_qf = "Quantsini Farmstead" # -480, 340
+_ss = "Sandy Shores"        # -330, 200
+_mb = "Main Base"           # 130, 200
+_rc = "Research Center"     # 235, 245
+_sp = "Spawn Point"         # 235, 350
 
-lines["Red Line"] = Line("Red Line", [_qf,_ss,_mb,_rc], {
-		(_qf,_ss): 47.5,
+lines["Red Line"] = Line("Red Line", [_qf,_ss,_mb,_rc,_sp], {
+		(_qf,_ss): 49.0,
 		(_ss,_mb): 82.0,
 		(_mb,_rc): 39.0,
-		(_rc,_rc): 15.8,
-		(_rc,_mb): 25.6,
-		(_mb,_ss): 85.0,
-		(_ss,_qf): 50.8,
-		}, 2)
+		(_rc,_sp): 23.0,
+		(_sp,_rc): 17.0,
+		(_rc,_mb): 26.0,
+		(_mb,_ss): 81.0,
+		(_ss,_qf): 51.0,
+		}, 1)
 
 def checkpoint(request):
 	resp = {}
@@ -134,7 +142,7 @@ def nexttrain(request):
 		line = lines[data['line_name']]
 		resp['name']   = line.name
 		resp['dest']   = line.getdest(data['stop_name'], data['direction'])
-		resp['time']   = time.strftime("%H:%M", time.localtime(time.time()+line.round_trip_time()/2))
+		resp['time']   = time.strftime("%H:%M", time.localtime(time.time()+line.round_trip_time()/line.train_count))
 	return Response(json.dumps(resp))
 
 def api_time(request):

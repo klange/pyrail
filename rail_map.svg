@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="rail_map.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0422459"
+     inkscape:cx="-61.466428"
+     inkscape:cy="-353.13363"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-global="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="1920"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3821"
+       d="m 249.93337,1320.8937 0,70.6627"
+       style="color:#000000;fill:none;stroke:#6f6f6f;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/tmp/railmap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/tmp/railmap.png"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 249.93337,1320.8937 0,70.6627"
+       id="path3852"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="color:#000000;fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 249.93337,1320.8937 0,-67.325 7.48057,0 0,-15.735 -112.72438,0 -459.40989,0 -150.1272,0 0,154.2544"
+       id="path3775"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/tmp/railmap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3777"
+       d="m 249.93337,1320.8937 0,-67.325 7.48057,0 0,-15.735 -112.72438,0 -459.40989,0 -150.1272,0 0,154.2544"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/tmp/railmap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:2.36243907000000020;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3761"
+       sodipodi:cx="-1035.5326"
+       sodipodi:cy="236.41147"
+       sodipodi:rx="4.0406103"
+       sodipodi:ry="4.0406103"
+       d="m -1031.492,236.41147 a 4.0406103,4.0406103 0 1 1 -8.0812,0 4.0406103,4.0406103 0 1 1 8.0812,0 z"
+       transform="matrix(2.1164567,0,0,2.1164567,1726.6101,877.05729)"
+       inkscape:export-filename="/tmp/railmap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(2.1304971,0,0,2.1304971,1891.1992,733.68823)"
+       d="m -1031.492,236.41147 a 4.0406103,4.0406103 0 1 1 -8.0812,0 4.0406103,4.0406103 0 1 1 8.0812,0 z"
+       sodipodi:ry="4.0406103"
+       sodipodi:rx="4.0406103"
+       sodipodi:cy="236.41147"
+       sodipodi:cx="-1035.5326"
+       id="path3763"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:2.34687013000000011;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/tmp/railmap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:2.34687013000000011;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3765"
+       sodipodi:cx="-1035.5326"
+       sodipodi:cy="236.41147"
+       sodipodi:rx="4.0406103"
+       sodipodi:ry="4.0406103"
+       d="m -1031.492,236.41147 a 4.0406103,4.0406103 0 1 1 -8.0812,0 4.0406103,4.0406103 0 1 1 8.0812,0 z"
+       transform="matrix(2.1304971,0,0,2.1304971,2351.1991,733.68823)"
+       inkscape:export-filename="/tmp/railmap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(2.1304971,0,0,2.1304971,2456.1991,778.68823)"
+       d="m -1031.492,236.41147 a 4.0406103,4.0406103 0 1 1 -8.0812,0 4.0406103,4.0406103 0 1 1 8.0812,0 z"
+       sodipodi:ry="4.0406103"
+       sodipodi:rx="4.0406103"
+       sodipodi:cy="236.41147"
+       sodipodi:cx="-1035.5326"
+       id="path3767"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:2.34687013000000011;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/tmp/railmap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:#001eff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3771"
+       sodipodi:cx="-0.60619944"
+       sodipodi:cy="1052.3622"
+       sodipodi:rx="15.458085"
+       sodipodi:ry="15.458085"
+       d="m 14.851886,1052.3622 a 15.458085,15.458085 0 1 1 -30.916171,0 15.458085,15.458085 0 1 1 30.916171,0 z"
+       transform="matrix(0.40632601,0,0,0.40632601,7.7463143,617.26009)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3779"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+       transform="matrix(1.6092801,0,0,1.6092801,295.24477,-841.21795)"
+       inkscape:export-filename="/tmp/railmap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3781"><rect
+           id="rect3783"
+           width="170.9682"
+           height="62.416962"
+           x="-458.62897"
+           y="1354.9487"
+           style="stroke:none" /></flowRegion><flowPara
+         id="flowPara3785"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Blue Highway;-inkscape-font-specification:Blue Highway Bold">Quantsini Farmstead</flowPara></flowRoot>    <path
+       style="color:#000000;fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -458.55108,1371.4928 11.67456,-11.6745"
+       id="path3002"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/tmp/railmap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       transform="matrix(1.6092801,0,0,1.6092801,444.74259,-981.25163)"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+       id="flowRoot3789"
+       xml:space="preserve"
+       inkscape:export-filename="/tmp/railmap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3791"><rect
+           y="1354.9487"
+           x="-458.62897"
+           height="62.416962"
+           width="170.9682"
+           id="rect3793"
+           style="stroke:none" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Blue Highway;-inkscape-font-specification:Blue Highway Bold"
+         id="flowPara3795">Sandy Shores</flowPara></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path3797"
+       d="m -309.05326,1231.4592 11.67456,-11.6745"
+       style="color:#000000;fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/tmp/railmap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3799"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+       transform="matrix(1.6092801,0,0,1.6092801,905.3221,-981.25163)"
+       inkscape:export-filename="/tmp/railmap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3801"><rect
+           id="rect3803"
+           width="170.9682"
+           height="62.416962"
+           x="-458.62897"
+           y="1354.9487"
+           style="stroke:none" /></flowRegion><flowPara
+         id="flowPara3805"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Blue Highway;-inkscape-font-specification:Blue Highway Bold">Main Base</flowPara></flowRoot>    <path
+       style="color:#000000;fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 151.52625,1231.4592 11.67456,-11.6745"
+       id="path3807"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/tmp/railmap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       transform="matrix(1.6092801,0,0,1.6092801,1009.9723,-936.13503)"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+       id="flowRoot3809"
+       xml:space="preserve"
+       inkscape:export-filename="/tmp/railmap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3811"><rect
+           y="1354.9487"
+           x="-458.62897"
+           height="62.416962"
+           width="170.9682"
+           id="rect3813"
+           style="stroke:none" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Blue Highway;-inkscape-font-specification:Blue Highway Bold"
+         id="flowPara3815">Research Center</flowPara></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path3817"
+       d="m 256.17643,1276.5758 11.67456,-11.6745"
+       style="color:#000000;fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/tmp/railmap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#6f6f6f;stroke-width:2.34687018;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3840"
+       sodipodi:cx="-1035.5326"
+       sodipodi:cy="236.41147"
+       sodipodi:rx="4.0406103"
+       sodipodi:ry="4.0406103"
+       d="m -1031.492,236.41147 a 4.0406103,4.0406103 0 1 1 -8.0812,0 4.0406103,4.0406103 0 1 1 8.0812,0 z"
+       transform="matrix(2.1304971,0,0,2.1304971,2456.1991,886.62821)"
+       inkscape:export-filename="/tmp/railmap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3842"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;color:#000000;fill:#6f6f6f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+       transform="matrix(1.6092801,0,0,1.6092801,1009.9723,-829.70618)"
+       inkscape:export-filename="/tmp/railmap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3844"><rect
+           id="rect3846"
+           width="170.9682"
+           height="62.416962"
+           x="-458.62897"
+           y="1354.9487"
+           style="fill:#6f6f6f;fill-opacity:1;stroke:none" /></flowRegion><flowPara
+         id="flowPara3848"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#6f6f6f;fill-opacity:1;stroke:none;font-family:Blue Highway;-inkscape-font-specification:Blue Highway Bold">Spawn Point (Planned)</flowPara></flowRoot>    <path
+       style="color:#000000;fill:none;stroke:#6f6f6f;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 256.17643,1383.0047 11.67456,-11.6745"
+       id="path3850"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/tmp/railmap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
