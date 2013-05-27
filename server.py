@@ -87,6 +87,7 @@ class Line(object):
 
 lines = {}
 
+# This is a complete list of all stations.
 _qf = "Quantsini Farmstead" # -480, 340
 _ss = "Sandy Shores"        # -330, 200
 _mb = "Main Base"           # 130, 200
@@ -94,15 +95,19 @@ _rc = "Research Center"     # 235, 245
 _sp = "Spawn Point"         # 235, 350
 
 lines["Red Line"] = Line("Red Line", [_qf,_ss,_mb,_rc,_sp], {
-		(_qf,_ss): 49.0,
+		(_qf,_ss): 53.0,
 		(_ss,_mb): 82.0,
-		(_mb,_rc): 39.0,
+		(_mb,_rc): 44.0,
 		(_rc,_sp): 23.0,
 		(_sp,_rc): 17.0,
 		(_rc,_mb): 26.0,
-		(_mb,_ss): 81.0,
-		(_ss,_qf): 51.0,
+		(_mb,_ss): 87.0,
+		(_ss,_qf): 55.0,
 		}, 1)
+
+lines["Yellow Line"] = Line("Yellow Line", [_qf], {
+		(_qf, _qf): 74.0,
+	}, 1)
 
 def checkpoint(request):
 	resp = {}
