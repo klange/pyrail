@@ -94,6 +94,8 @@ _mb = "Main Base"           # 130, 200
 _rc = "Research Center"     # 235, 245
 _sp = "Spawn Point"         # 235, 350
 
+_ts = "Test Station"
+
 lines["Red Line"] = Line("Red Line", [_qf,_ss,_mb,_rc,_sp], {
 		(_qf,_ss): 53.0,
 		(_ss,_mb): 82.0,
@@ -107,6 +109,10 @@ lines["Red Line"] = Line("Red Line", [_qf,_ss,_mb,_rc,_sp], {
 
 lines["Yellow Line"] = Line("Yellow Line", [_qf], {
 		(_qf, _qf): 74.0,
+	}, 1)
+
+lines["Test Line"] = Line("Test Line", [_ts], {
+		(_ts, _ts): 10.0,
 	}, 1)
 
 def checkpoint(request):
