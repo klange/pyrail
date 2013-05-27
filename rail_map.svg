@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0422459"
-     inkscape:cx="-61.466428"
-     inkscape:cy="-353.13363"
+     inkscape:cx="-255.51966"
+     inkscape:cy="-291.60107"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -58,40 +58,51 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path3821"
-       d="m 249.93337,1320.8937 0,70.6627"
-       style="color:#000000;fill:none;stroke:#6f6f6f;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8.04640007;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3936"
+       width="1301.996"
+       height="495.08469"
+       x="-838.09393"
+       y="1148.7886"
        inkscape:export-filename="/tmp/railmap.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/tmp/railmap.png"
-       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 249.93337,1320.8937 0,70.6627"
-       id="path3852"
+       style="color:#000000;fill:none;stroke:#fff100;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -773.80971,1414.9206 356.2651,0 0,-123.6513"
+       id="path4063"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="ccc" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path4338"
+       d="m -773.80971,1414.9206 356.2651,0 0,-123.6513"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4048"
+       d="m -566.33217,1414.6519 101.42757,-37.1448"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
        style="color:#000000;fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 249.93337,1320.8937 0,-67.325 7.48057,0 0,-15.735 -112.72438,0 -459.40989,0 -150.1272,0 0,154.2544"
+       d="m 249.93337,1390.455 0,-136.8863 7.48057,0 0,-15.735 -112.72438,0 -459.40989,0 -150.1272,0 0,154.2544"
        id="path3775"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/tmp/railmap.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cccccccc" />
     <path
-       inkscape:connector-curvature="0"
-       id="path3777"
-       d="m 249.93337,1320.8937 0,-67.325 7.48057,0 0,-15.735 -112.72438,0 -459.40989,0 -150.1272,0 0,154.2544"
-       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       inkscape:export-filename="/tmp/railmap.png"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-filename="/tmp/railmap.png"
+       inkscape:connector-curvature="0"
+       id="path3854"
+       d="m 249.93337,1390.455 0,-136.8863 7.48057,0 0,-15.735 -112.72438,0 -459.40989,0 -150.1272,0 0,154.2544"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
        sodipodi:type="arc"
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:2.36243907000000020;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -157,8 +168,8 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3779"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
-       transform="matrix(1.6092801,0,0,1.6092801,295.24477,-841.21795)"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+       transform="matrix(1.6092801,0,0,1.6092801,78.405348,-841.21795)"
        inkscape:export-filename="/tmp/railmap.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -168,11 +179,11 @@
            height="62.416962"
            x="-458.62897"
            y="1354.9487"
-           style="stroke:none" /></flowRegion><flowPara
+           style="fill:#000000;fill-opacity:1;stroke:none" /></flowRegion><flowPara
          id="flowPara3785"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Blue Highway;-inkscape-font-specification:Blue Highway Bold">Quantsini Farmstead</flowPara></flowRoot>    <path
        style="color:#000000;fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -458.55108,1371.4928 11.67456,-11.6745"
+       d="m -471.58278,1371.4928 -11.67456,-11.6745"
        id="path3002"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/tmp/railmap.png"
@@ -180,7 +191,7 @@
        inkscape:export-ydpi="90" />
     <flowRoot
        transform="matrix(1.6092801,0,0,1.6092801,444.74259,-981.25163)"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
        id="flowRoot3789"
        xml:space="preserve"
        inkscape:export-filename="/tmp/railmap.png"
@@ -192,7 +203,7 @@
            height="62.416962"
            width="170.9682"
            id="rect3793"
-           style="stroke:none" /></flowRegion><flowPara
+           style="stroke:none;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Blue Highway;-inkscape-font-specification:Blue Highway Bold"
          id="flowPara3795">Sandy Shores</flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
@@ -205,7 +216,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3799"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
        transform="matrix(1.6092801,0,0,1.6092801,905.3221,-981.25163)"
        inkscape:export-filename="/tmp/railmap.png"
        inkscape:export-xdpi="90"
@@ -216,7 +227,7 @@
            height="62.416962"
            x="-458.62897"
            y="1354.9487"
-           style="stroke:none" /></flowRegion><flowPara
+           style="stroke:none;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3805"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Blue Highway;-inkscape-font-specification:Blue Highway Bold">Main Base</flowPara></flowRoot>    <path
        style="color:#000000;fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -228,7 +239,7 @@
        inkscape:export-ydpi="90" />
     <flowRoot
        transform="matrix(1.6092801,0,0,1.6092801,1009.9723,-936.13503)"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
        id="flowRoot3809"
        xml:space="preserve"
        inkscape:export-filename="/tmp/railmap.png"
@@ -240,7 +251,7 @@
            height="62.416962"
            width="170.9682"
            id="rect3813"
-           style="stroke:none" /></flowRegion><flowPara
+           style="stroke:none;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Blue Highway;-inkscape-font-specification:Blue Highway Bold"
          id="flowPara3815">Research Center</flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
@@ -252,7 +263,7 @@
        inkscape:export-ydpi="90" />
     <path
        sodipodi:type="arc"
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#6f6f6f;stroke-width:2.34687018;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:2.34687013;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path3840"
        sodipodi:cx="-1035.5326"
        sodipodi:cy="236.41147"
@@ -266,7 +277,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3842"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;color:#000000;fill:#6f6f6f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.99999952;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
        transform="matrix(1.6092801,0,0,1.6092801,1009.9723,-829.70618)"
        inkscape:export-filename="/tmp/railmap.png"
        inkscape:export-xdpi="90"
@@ -277,15 +288,392 @@
            height="62.416962"
            x="-458.62897"
            y="1354.9487"
-           style="fill:#6f6f6f;fill-opacity:1;stroke:none" /></flowRegion><flowPara
+           style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.99999952;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" /></flowRegion><flowPara
          id="flowPara3848"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#6f6f6f;fill-opacity:1;stroke:none;font-family:Blue Highway;-inkscape-font-specification:Blue Highway Bold">Spawn Point (Planned)</flowPara></flowRoot>    <path
-       style="color:#000000;fill:none;stroke:#6f6f6f;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.99999952;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Blue Highway;-inkscape-font-specification:Blue Highway Bold">Spawn Point</flowPara></flowRoot>    <path
+       style="color:#000000;fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 256.17643,1383.0047 11.67456,-11.6745"
        id="path3850"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/tmp/railmap.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <g
+       id="g4355">
+      <rect
+         y="1324.6108"
+         x="-129.46443"
+         height="29.263727"
+         width="117.17484"
+         id="rect3960"
+         style="color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3962"
+         width="133.9655"
+         height="11.513597"
+         x="-137.85976"
+         y="1333.4858" />
+      <path
+         transform="matrix(0.64574504,0,0,0.64574504,-48.882243,474.43337)"
+         d="m 2.3986664,1339.2427 a 36.459724,36.459724 0 1 1 -72.9194484,0 36.459724,36.459724 0 1 1 72.9194484,0 z"
+         sodipodi:ry="36.459724"
+         sodipodi:rx="36.459724"
+         sodipodi:cy="1339.2427"
+         sodipodi:cx="-34.061058"
+         id="path3948"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:30;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3950"
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Blue Highway;-inkscape-font-specification:Blue Highway Bold"
+         transform="translate(-76.593346,33.394685)"><flowRegion
+           id="flowRegion3952"><rect
+             id="rect3954"
+             width="376.11084"
+             height="99.784515"
+             x="-182.29863"
+             y="1279.7557"
+             style="font-size:25px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" /></flowRegion><flowPara
+           id="flowPara3956">Red Line</flowPara><flowPara
+           id="flowPara3958"
+           style="font-size:12px;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">Yelp Rail Company</flowPara></flowRoot>      <flowRoot
+         transform="translate(-76.593346,33.394685)"
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Blue Highway;-inkscape-font-specification:Blue Highway Bold"
+         id="flowRoot3938"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3940"><rect
+             style="font-size:25px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+             y="1279.7557"
+             x="-182.29863"
+             height="99.784515"
+             width="376.11084"
+             id="rect3942" /></flowRegion><flowPara
+           id="flowPara3944">Red Line</flowPara><flowPara
+           style="font-size:12px"
+           id="flowPara3946">Yelp Rail Company</flowPara></flowRoot>    </g>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/tmp/railmap.png"
+       transform="matrix(2.1164567,0,0,2.1164567,1625.3863,914.23662)"
+       d="m -1031.492,236.41147 a 4.0406103,4.0406103 0 1 1 -8.0812,0 4.0406103,4.0406103 0 1 1 8.0812,0 z"
+       sodipodi:ry="4.0406103"
+       sodipodi:rx="4.0406103"
+       sodipodi:cy="236.41147"
+       sodipodi:cx="-1035.5326"
+       id="path4044"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#fff100;stroke-width:2.36243916000000009;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc" />
+    <path
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -566.33217,1414.6519 101.42757,-37.1448"
+       id="path4046"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#fff100;stroke-width:2.36243916000000009;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4050"
+       sodipodi:cx="-1035.5326"
+       sodipodi:cy="236.41147"
+       sodipodi:rx="4.0406103"
+       sodipodi:ry="4.0406103"
+       d="m -1031.492,236.41147 a 4.0406103,4.0406103 0 1 1 -8.0812,0 4.0406103,4.0406103 0 1 1 8.0812,0 z"
+       transform="matrix(2.1164567,0,0,2.1164567,1417.7117,914.23662)"
+       inkscape:export-filename="/tmp/railmap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/tmp/railmap.png"
+       transform="matrix(1.6092801,0,0,1.6092801,-15.09047,-804.15856)"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+       id="flowRoot4116"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4118"><rect
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           y="1354.9487"
+           x="-458.62897"
+           height="62.416962"
+           width="170.9682"
+           id="rect4120" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Blue Highway;-inkscape-font-specification:Blue Highway Bold"
+         id="flowPara4122">Fort Hill</flowPara></flowRoot>    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/tmp/railmap.png"
+       inkscape:connector-curvature="0"
+       id="path4124"
+       d="m -768.88632,1408.5522 11.67456,-11.6745"
+       style="color:#000000;fill:none;stroke:#fff100;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <g
+       id="g4340"
+       transform="translate(23.027195,163.1093)">
+      <rect
+         style="color:#000000;fill:#fff100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4149"
+         width="117.17484"
+         height="29.263727"
+         x="-752.16901"
+         y="1298.2396" />
+      <rect
+         y="1307.1146"
+         x="-760.56433"
+         height="11.513597"
+         width="133.9655"
+         id="rect4151"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#fff100;stroke-width:30;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path4153"
+         sodipodi:cx="-34.061058"
+         sodipodi:cy="1339.2427"
+         sodipodi:rx="36.459724"
+         sodipodi:ry="36.459724"
+         d="m 2.3986664,1339.2427 c 0,20.1361 -16.3235744,36.4597 -36.4597244,36.4597 -20.13615,0 -36.459724,-16.3236 -36.459724,-36.4597 0,-20.1362 16.323574,-36.4597 36.459724,-36.4597 20.13615,0 36.4597244,16.3235 36.4597244,36.4597 z"
+         transform="matrix(0.64574504,0,0,0.64574504,-671.58685,448.06217)" />
+      <flowRoot
+         transform="translate(-699.29795,7.0234791)"
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Blue Highway;-inkscape-font-specification:Blue Highway Bold"
+         id="flowRoot4155"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4157"><rect
+             style="font-size:25px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             y="1279.7557"
+             x="-182.29863"
+             height="99.784515"
+             width="376.11084"
+             id="rect4159" /></flowRegion><flowPara
+           id="flowPara4161">Yellow Line</flowPara><flowPara
+           style="font-size:12px;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="flowPara4163">Yelp Rail Company</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4165"
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Blue Highway;-inkscape-font-specification:Blue Highway Bold"
+         transform="translate(-699.29795,7.0234791)"><flowRegion
+           id="flowRegion4167"><rect
+             id="rect4169"
+             width="376.11084"
+             height="99.784515"
+             x="-182.29863"
+             y="1279.7557"
+             style="font-size:25px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+           id="flowPara4171">Yellow Line</flowPara><flowPara
+           id="flowPara4173"
+           style="font-size:12px">Yelp Rail Company</flowPara></flowRoot>    </g>
+    <g
+       id="g4370">
+      <rect
+         style="color:#000000;fill:#5756bf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4198"
+         width="117.17484"
+         height="29.263727"
+         x="-298.33054"
+         y="1522.261" />
+      <rect
+         y="1531.136"
+         x="-306.72586"
+         height="11.513597"
+         width="133.9655"
+         id="rect4200"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#5756bf;stroke-width:30;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path4202"
+         sodipodi:cx="-34.061058"
+         sodipodi:cy="1339.2427"
+         sodipodi:rx="36.459724"
+         sodipodi:ry="36.459724"
+         d="m 2.3986664,1339.2427 a 36.459724,36.459724 0 1 1 -72.9194484,0 36.459724,36.459724 0 1 1 72.9194484,0 z"
+         transform="matrix(0.64574504,0,0,0.64574504,-217.74834,672.08346)" />
+      <flowRoot
+         transform="translate(-245.45944,231.04478)"
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Blue Highway;-inkscape-font-specification:Blue Highway Bold"
+         id="flowRoot4204"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4206"><rect
+             style="font-size:25px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             y="1279.7557"
+             x="-182.29863"
+             height="99.784515"
+             width="376.11084"
+             id="rect4208" /></flowRegion><flowPara
+           id="flowPara4210">Blue Loop</flowPara><flowPara
+           style="font-size:12px;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="flowPara4212">Yelp Rail Company</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4214"
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Blue Highway;-inkscape-font-specification:Blue Highway Bold"
+         transform="translate(-245.45944,231.04478)"><flowRegion
+           id="flowRegion4216"><rect
+             id="rect4218"
+             width="376.11084"
+             height="99.784515"
+             x="-182.29863"
+             y="1279.7557"
+             style="font-size:25px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+           id="flowPara4220">Blue Loop</flowPara><flowPara
+           id="flowPara4222"
+           style="font-size:12px">Yelp Rail Company</flowPara></flowRoot>    </g>
+    <g
+       id="g4385">
+      <rect
+         y="1522.261"
+         x="-169.08672"
+         height="29.263727"
+         width="117.17484"
+         id="rect4224"
+         style="color:#000000;fill:#50b956;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4226"
+         width="133.9655"
+         height="11.513597"
+         x="-177.48204"
+         y="1531.136" />
+      <path
+         transform="matrix(0.64574504,0,0,0.64574504,-88.504521,672.08346)"
+         d="m 2.3986664,1339.2427 a 36.459724,36.459724 0 1 1 -72.9194484,0 36.459724,36.459724 0 1 1 72.9194484,0 z"
+         sodipodi:ry="36.459724"
+         sodipodi:rx="36.459724"
+         sodipodi:cy="1339.2427"
+         sodipodi:cx="-34.061058"
+         id="path4228"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#50b956;stroke-width:30;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4230"
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Blue Highway;-inkscape-font-specification:Blue Highway Bold"
+         transform="translate(-116.21562,231.04478)"><flowRegion
+           id="flowRegion4232"><rect
+             id="rect4234"
+             width="376.11084"
+             height="99.784515"
+             x="-182.29863"
+             y="1279.7557"
+             style="font-size:25px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" /></flowRegion><flowPara
+           id="flowPara4236">Green Line</flowPara><flowPara
+           id="flowPara4238"
+           style="font-size:12px;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">Yelp Rail Company</flowPara></flowRoot>      <flowRoot
+         transform="translate(-116.21562,231.04478)"
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Blue Highway;-inkscape-font-specification:Blue Highway Bold"
+         id="flowRoot4240"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4242"><rect
+             style="font-size:25px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+             y="1279.7557"
+             x="-182.29863"
+             height="99.784515"
+             width="376.11084"
+             id="rect4244" /></flowRegion><flowPara
+           id="flowPara4246">Green Line</flowPara><flowPara
+           style="font-size:12px"
+           id="flowPara4248">Yelp Rail Company</flowPara></flowRoot>    </g>
+    <g
+       id="g4400">
+      <rect
+         style="color:#000000;fill:#75507b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4297"
+         width="117.17484"
+         height="29.263727"
+         x="-38.599277"
+         y="1522.261" />
+      <rect
+         y="1531.136"
+         x="-46.994602"
+         height="11.513597"
+         width="133.9655"
+         id="rect4299"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#75507b;stroke-width:30;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path4301"
+         sodipodi:cx="-34.061058"
+         sodipodi:cy="1339.2427"
+         sodipodi:rx="36.459724"
+         sodipodi:ry="36.459724"
+         d="m 2.3986664,1339.2427 a 36.459724,36.459724 0 1 1 -72.9194484,0 36.459724,36.459724 0 1 1 72.9194484,0 z"
+         transform="matrix(0.64574504,0,0,0.64574504,41.982918,672.08346)" />
+      <flowRoot
+         transform="translate(14.271819,231.04478)"
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Blue Highway;-inkscape-font-specification:Blue Highway Bold"
+         id="flowRoot4303"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4305"><rect
+             style="font-size:25px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             y="1279.7557"
+             x="-182.29863"
+             height="99.784515"
+             width="376.11084"
+             id="rect4307" /></flowRegion><flowPara
+           id="flowPara4309">Express</flowPara><flowPara
+           style="font-size:12px;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="flowPara4311">Yelp Rail Company</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4313"
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Blue Highway;-inkscape-font-specification:Blue Highway Bold"
+         transform="translate(14.271819,231.04478)"><flowRegion
+           id="flowRegion4315"><rect
+             id="rect4317"
+             width="376.11084"
+             height="99.784515"
+             x="-182.29863"
+             y="1279.7557"
+             style="font-size:25px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+           id="flowPara4319">Express</flowPara><flowPara
+           id="flowPara4321"
+           style="font-size:12px">Yelp Rail Company</flowPara></flowRoot>    </g>
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#fff100;stroke-width:2.36243916;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4336"
+       sodipodi:cx="-1035.5326"
+       sodipodi:cy="236.41147"
+       sodipodi:rx="4.0406103"
+       sodipodi:ry="4.0406103"
+       d="m -1031.492,236.41147 a 4.0406103,4.0406103 0 1 1 -8.0812,0 4.0406103,4.0406103 0 1 1 8.0812,0 z"
+       transform="matrix(2.1164567,0,0,2.1164567,1774.3435,791.66478)"
+       inkscape:export-filename="/tmp/railmap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4415"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+       transform="matrix(1.6092801,0,0,1.6092801,343.51012,-925.17127)"
+       inkscape:export-filename="/tmp/railmap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4417"><rect
+           id="rect4419"
+           width="170.9682"
+           height="62.416962"
+           x="-458.62897"
+           y="1354.9487"
+           style="fill:#000000;fill-opacity:1;stroke:none" /></flowRegion><flowPara
+         id="flowPara4421"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Blue Highway;-inkscape-font-specification:Blue Highway Bold">Factory</flowPara></flowRoot>    <path
+       style="color:#000000;fill:none;stroke:#fff100;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -410.28573,1287.5395 11.67456,-11.6745"
+       id="path4423"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/tmp/railmap.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/tmp/railmap.png"
+       inkscape:connector-curvature="0"
+       id="path4425"
+       d="m -565.95915,1404.5944 0.041,-36.7406"
+       style="color:#000000;fill:none;stroke:#fff100;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
