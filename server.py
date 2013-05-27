@@ -93,6 +93,7 @@ _ss = "Sandy Shores"        # -330, 200
 _mb = "Main Base"           # 130, 200
 _rc = "Research Center"     # 235, 245
 _sp = "Spawn Point"         # 235, 350
+_fa = "Factory"
 
 _ts = "Test Station"
 
@@ -107,8 +108,9 @@ lines["Red Line"] = Line("Red Line", [_qf,_ss,_mb,_rc,_sp], {
 		(_ss,_qf): 55.0,
 		}, 1)
 
-lines["Yellow Line"] = Line("Yellow Line", [_qf], {
-		(_qf, _qf): 74.0,
+lines["Yellow Line"] = Line("Yellow Line", [_qf, _fa], {
+		(_qf, _fa): 179.0,
+		(_fa, _qf): 40.0,
 	}, 1)
 
 lines["Test Line"] = Line("Test Line", [_ts], {
