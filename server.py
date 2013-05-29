@@ -94,6 +94,7 @@ _mb = "Main Base"           # 130, 200
 _rc = "Research Center"     # 235, 245
 _sp = "Spawn Point"         # 235, 350
 _fa = "Factory"
+_cs = "Cliffside"           # 32, 580
 
 _ts = "Test Station"
 
@@ -111,6 +112,11 @@ lines["Red Line"] = Line("Red Line", [_qf,_ss,_mb,_rc,_sp], {
 lines["Yellow Line"] = Line("Yellow Line", [_qf, _fa], {
 		(_qf, _fa): 179.0,
 		(_fa, _qf): 40.0,
+	}, 1)
+
+lines["Green Line"] = Line("Green Line", [_cs, _mb], {
+		(_mb, _cs): 180.0,
+		(_cs, _mb): 190.0,
 	}, 1)
 
 lines["Test Line"] = Line("Test Line", [_ts], {
